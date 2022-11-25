@@ -1,4 +1,0 @@
-Manifest-Version: 1.0
-Created-By: Diego Ramiro Gutierrez
-Main-Class: Bienvenida
-X-COMMENT: Proyecto portfolio Coca-Cola
