@@ -5,5 +5,5 @@
 </br>
 ## Settings
 This app does need a settings file to run - see `Sistema.jar` file and the "images" folder.
-</br></br>
+</br>Comment this post</br>
 
