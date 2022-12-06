@@ -1,5 +1,5 @@
 ## Coca-Cola
-## Vacation calculation system interface
+# Vacation calculation system interface
 </br>
 
 ![https://github.com/dimagutierrez](https://raw.githubusercontent.com/DimaGutierrez/Coca-Cola/main/gitrepositorios.jpg)
