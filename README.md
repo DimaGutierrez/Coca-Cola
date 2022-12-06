@@ -1,8 +1,7 @@
-# Coca-Cola
+## Coca-Cola
 Java - vacation calculation system interface
 </br>
-Para su correcto funcionamiento descargar el archivo "Sistema.jar" y la carpeta de "imqges".
-</br>
-For its correct operation, download the "Sistema.jar" file and the "images" folder.
+## Settings
+This app does need a settings file to run - see `Sistema.jar` file and the "images" folder.
 </br>
 
