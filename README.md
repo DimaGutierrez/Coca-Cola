@@ -7,7 +7,11 @@
 This app does need a settings file to run - see `Sistema.jar` file and the `images` folder.
 </br>
 Contains menu options, you can change the background color: Red/Black/Purple
-</br></br>
+</br>
+```
+This applies to the main section of the class /Principal.class
+```
+</br>
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 
 ## Portfolio:
