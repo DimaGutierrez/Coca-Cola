@@ -7,7 +7,7 @@
 This app does need a settings file to run - see `Sistema.jar` file and the `images` folder.
 </br>
 ## Contains menu options, you can change the background color: Red/Black/Purple
-</br>
+
 ```
 This applies to the main section of the class /Principal.class
 ```
