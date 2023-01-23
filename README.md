@@ -11,7 +11,7 @@ This app does need a settings file to run - see `Sistema.jar` file and the `imag
 ```
 This applies to the main section of the class /Principal.class
 ```
-</br>
+<br></br>
 
 [![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=github&logoColor=white&labelColor=101010)]()
 
